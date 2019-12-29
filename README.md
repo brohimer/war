@@ -25,4 +25,3 @@
   - java ClassNameDriver n (n is the amount of games to simulate)
   - javadoc *.java to generate Java Documentation
   - Refer to java documentation for more information
-# war
